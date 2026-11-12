@@ -33,11 +33,13 @@ The system validates coupon eligibility, compares available discounts and automa
 
 ## 4. Project Structure
 
+```text
 DealForge/
 │
 ├── .venv/
 ├── archive/
 ├── data/
+│
 ├── tests/
 │   ├── __init__.py
 │   ├── test_optimizer.py
@@ -57,7 +59,7 @@ DealForge/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 ## 5. Installation
 
 ### Prerequisites
