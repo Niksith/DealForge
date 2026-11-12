@@ -1,0 +1,6 @@
+
+# DealForge dependencies
+# Python standard-library modules are used wherever possible.
+
+# Required for timezone support on Windows
+tzdata
